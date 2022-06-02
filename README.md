@@ -11,7 +11,7 @@ But, we have provide the key module part in path "/models/model_builder.py" incl
 
 ## What we did not provide
 
-we did not provide the training strategy and data processing script in this repository, considering the commercial agreement and we will provide this part in future.
+we did not provide the data processing script in this repository, considering the commercial agreement and we will provide this part in future.
 
 If readers have any questions, please email us (hengherui@stu.shmtu.edu.cn / lipeiji@yundaex.com / shaopengshang@126.com ) at any time. We are welcome to have further 
 
@@ -21,6 +21,8 @@ discussion.
 ## training enviroment
 
 Tesla V100 32G memory, 8 cards.
+
+install required package "pip install -r requirments" 
 
 
 
