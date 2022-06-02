@@ -2,11 +2,11 @@
 
 This repository is the coding about our paper "Chinese Low-resolution Image Text Recognition by Introducing Super-Resolution Network".
 
-Currently, we only push the key module of our model in this repository,our paper is suported by DONGPU Software Co.,Ltd in China,
+Currently, we only push the key module of our model in this repository,our paper is supported by DONGPU Software Co.,Ltd in China,
 
 due to commercial agreement，we will not provide the whole scripts at the present before our paper have been considered for acceptance. 
 
-But, we have provide the key module part in path "/models/model_builder.py" including our model framwork, which can give the readers inspirations and provide ideas.
+But, we have provided the key module part in path "/models/model_builder.py" including our model framework, which can give the readers inspirations and provide ideas.
 
 
 ## What we did not provide
